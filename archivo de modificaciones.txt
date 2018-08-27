@@ -1,2 +1,8 @@
 este archivo sera utilizado para emular modificaciones en el proyecto colaborativo
 humberto_persona_1
+
+Patricio_Persona 2.
+El repositorio remoto actualizado se puede encontrar en las urls.
+
+https://github.com/patriciodiazl/tarea_colaborativo
+https://github.com/carpedie/tarea_colaborativo/tree/master
